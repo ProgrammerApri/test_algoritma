@@ -1,1 +1,1 @@
-perintah untuk menjalankan program dan menampilkan hasilnya #node src/index.js
+perintah untuk menjalankan program dan menampilkan hasilnya         node src/index.js
